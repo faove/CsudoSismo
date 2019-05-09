@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+	<item android:id="@+id/MnuOpc1" android:title="Distancia"
+          android:icon="@android:drawable/ic_dialog_map"></item>
+    <item android:id="@+id/MnuOpc2" android:title="Lista"
+          android:icon="@android:drawable/ic_menu_agenda"></item>
+    <item android:id="@+id/MnuOpc3" android:title="Salir"
+          android:icon="@android:drawable/ic_lock_power_off"></item>
+</menu>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CsudoSismo</string>
+    <string name="action_settings">Configuración</string>
+    <string name="title_activity_buscar_sismo">BuscarSismoActivity</string>
+
+</resources>
